@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "rgba(171, 203, 255, 1)"                # Bleu principal
+backgroundColor = "#EAF6FB"             # Bleu très clair (fond)
+secondaryBackgroundColor = "#97cff4ff"    # Bleu clair (cartes)
+textColor = "#0f172a"                   # Texte foncé
+font = "sans serif"
